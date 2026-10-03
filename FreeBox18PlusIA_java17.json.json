@@ -1,0 +1,23 @@
+{
+  "spider": "https://raw.githubusercontent.com/gt292612967-create/freebox/main/FreeBox18PlusIA_java17.jar;md5;8cee453685f74ed13fa3e0e4eafaebeb",
+  "wallpaper": "https://t.alcy.cc/ys",
+  "sites": [
+    {
+      "key": "csp_FreeBox18PlusIA",
+      "name": "18+成人向｜IA恐怖犯罪测试",
+      "type": 3,
+      "api": "csp_FreeBox18PlusIA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "Web",
+      "type": 3,
+      "url": "Web"
+    }
+  ],
+  "ads": []
+}
