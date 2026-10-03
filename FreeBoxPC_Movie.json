@@ -1,0 +1,118 @@
+{
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Greatwallcorner/CatVodSpider/master/jar/spider.jar;md5;074ddf3f17d1a91c461b42f1f701d0e7",
+  "sites": [
+    {
+      "key": "Ddrk",
+      "name": "低端影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://ddys.info/"
+      }
+    },
+    {
+      "key": "NCat",
+      "name": "网飞猫",
+      "type": 3,
+      "api": "csp_NCat",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Tvb",
+      "name": "TVB",
+      "type": 3,
+      "api": "csp_HkTv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "XuanFeng",
+      "name": "旋风影视",
+      "type": 3,
+      "api": "csp_XuanFeng",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "xb6v",
+      "name": "XB6V",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": ""
+    },
+    {
+      "key": "YHDM",
+      "name": "樱花动漫",
+      "type": 3,
+      "api": "csp_YHDM",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": ""
+    },
+    {
+      "key": "DM84",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": ""
+    },
+    {
+      "key": "ChangZhang",
+      "name": "厂长影视",
+      "type": 3,
+      "api": "csp_ChangZhang",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Mtyy",
+      "name": "麦田影院",
+      "type": 3,
+      "api": "csp_Mtyy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Ikanbot",
+      "name": "爱看机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "PTT",
+      "name": "PTT影视",
+      "type": 3,
+      "api": "csp_PTT",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {}
+    }
+  ]
+}
